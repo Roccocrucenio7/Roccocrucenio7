@@ -250,21 +250,6 @@ Development of websites, automation workflows, and digital solutions for local b
 
 ---
 
-# Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Coming%20Soon-orange?style=for-the-badge&logo=leetcode">
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Coming%20Soon-green?style=for-the-badge&logo=hackerrank">
-</a>
-
-</p>
-
----
 
 # GitHub Analytics
 
@@ -306,9 +291,16 @@ Development of websites, automation workflows, and digital solutions for local b
 
 # Contribution Snake
 
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Roccocrucenio7/Roccocrucenio7/output/github-contribution-grid-snake.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Roccocrucenio7&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 

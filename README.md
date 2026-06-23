@@ -300,7 +300,7 @@ Development of websites, automation workflows, and digital solutions for local b
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Roccocrucenio7/Roccocrucenio7/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
